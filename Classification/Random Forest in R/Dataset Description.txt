@@ -1,0 +1,3 @@
+The data set(Social_Network_Ads) contains details of user with gender,age and estimated salary and whether they purchase a SUV or Not.This dataset has 3 independent(Gender,Age,EstimatedSalary) variable and 1 dependent(Purchased) variable
+We have to build a logistic regression model that will predict if a customer will buy suv or not
+
